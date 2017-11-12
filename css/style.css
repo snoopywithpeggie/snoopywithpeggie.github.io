@@ -1,0 +1,30 @@
+.profile-pic {
+	max-width:100%;
+}
+
+.profile-title{
+	color:#f4df41;
+	font-family: 'Josefin Sans', sans-serif
+}
+
+.profile-font{
+	color:#f45541;
+	font-family: 'Acme', sans-serif;
+  }
+
+.profile-font1{
+	color:#41f4a6;
+	font-family: 'Josefin Sans', sans-serif
+}
+
+.progress-bar{
+	background-color: hotpink;
+}
+
+.my-nav {
+	background-color: #D2691E;
+}
+
+.my-navi{
+	color: black;
+}
