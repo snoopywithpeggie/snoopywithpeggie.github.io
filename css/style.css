@@ -13,7 +13,7 @@
   }
 
 .profile-font1{
-	color:#41f4a6;
+	color:#5F9EA0;
 	font-family: 'Josefin Sans', sans-serif
 }
 
@@ -27,4 +27,16 @@
 
 .my-navi{
 	color: black;
+}
+
+.profile-color{
+	color:#800000;
+}
+
+.jumbotron-fluid{
+	background-image: url("../img/friends.jpg");
+}
+
+.jumbo-text{
+	text-shadow: 2px 2px white;
 }
